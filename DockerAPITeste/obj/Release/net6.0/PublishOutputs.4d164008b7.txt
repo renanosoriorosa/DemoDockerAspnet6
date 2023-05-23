@@ -1,0 +1,11 @@
+C:\Users\Renan\Documents\Projetos\Docker\PrimeiroTeste\DockerAPITeste\DockerAPITeste\obj\Release\net6.0\PubTmp\Out\DockerAPITeste.exe
+C:\Users\Renan\Documents\Projetos\Docker\PrimeiroTeste\DockerAPITeste\DockerAPITeste\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Renan\Documents\Projetos\Docker\PrimeiroTeste\DockerAPITeste\DockerAPITeste\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Renan\Documents\Projetos\Docker\PrimeiroTeste\DockerAPITeste\DockerAPITeste\obj\Release\net6.0\PubTmp\Out\DockerAPITeste.dll
+C:\Users\Renan\Documents\Projetos\Docker\PrimeiroTeste\DockerAPITeste\DockerAPITeste\obj\Release\net6.0\PubTmp\Out\DockerAPITeste.deps.json
+C:\Users\Renan\Documents\Projetos\Docker\PrimeiroTeste\DockerAPITeste\DockerAPITeste\obj\Release\net6.0\PubTmp\Out\DockerAPITeste.runtimeconfig.json
+C:\Users\Renan\Documents\Projetos\Docker\PrimeiroTeste\DockerAPITeste\DockerAPITeste\obj\Release\net6.0\PubTmp\Out\DockerAPITeste.pdb
+C:\Users\Renan\Documents\Projetos\Docker\PrimeiroTeste\DockerAPITeste\DockerAPITeste\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Renan\Documents\Projetos\Docker\PrimeiroTeste\DockerAPITeste\DockerAPITeste\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Renan\Documents\Projetos\Docker\PrimeiroTeste\DockerAPITeste\DockerAPITeste\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Renan\Documents\Projetos\Docker\PrimeiroTeste\DockerAPITeste\DockerAPITeste\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
